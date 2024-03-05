@@ -1,5 +1,3 @@
-# Correlation-in-Python
-
 Loading and Exploring the Dataset:
 
 Loaded a movie dataset using pandas.
@@ -38,3 +36,5 @@ Visualizing Budget vs. Gross by Genre:
 
 Created a scatter plot with colors distinguishing between genres.
 Explored ways to improve the aesthetics, including adjusting the legend placement.
+
+
