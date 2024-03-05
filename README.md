@@ -1,5 +1,4 @@
 [Open moviepython.html](https://zabashh.github.io/Correlation-in-Python/moviepython.html)
-[Open moviepython.ipynb](moviepython.ipynb)
 
 Loading and Exploring the Dataset:
 
